@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/1avb/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:abhinand.vijayakumarbinsu@sjsu.edu">
+  <a href="https://mail.google.com/mail/?view=cm&fm=1&to=abhinand.vijayakumarbinsu@sjsu.edu">
     <img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Abhinand-VB&label=Profile%20Views&color=2196F3&style=for-the-badge" />
@@ -81,5 +81,5 @@ I'm **Abhinand Vijayakumar Binsu** — I take ideas from concept to working prot
 <div align="center">
   <a href="https://abhinand-vb.github.io/">portfolio</a> ·
   <a href="https://www.linkedin.com/in/1avb/">linkedin</a> ·
-  <a href="mailto:abhinand.vijayakumarbinsu@sjsu.edu">email</a>
+  <a href="https://mail.google.com/mail/?view=cm&fm=1&to=abhinand.vijayakumarbinsu@sjsu.edu">email</a>
 </div>
