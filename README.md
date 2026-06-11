@@ -37,7 +37,7 @@ I'm **Abhinand Vijayakumar Binsu** — I take ideas from concept to working prot
 | Project | What | Stack |
 |---------|------|-------|
 | [**Distributed AI Gateway**](https://github.com/cmpe-273-enterprise-distributed-systems/distributed_system_project) | Multi-laptop compute cluster over Tailscale running local AI models — leader election, Kafka-backed routing, heartbeats, failover, Prometheus/Grafana | FastAPI · React · Kafka · Cassandra · Redis · Ollama |
-| **Eventora** | Full-stack event platform — RBAC, QR ticketing & check-in, broadcasts, analytics | Next.js · TypeScript · FastAPI · PostgreSQL |
+| [**Eventora**](https://github.com/gopinathsjsu/team-project-cmpe202-01-spring2026-stargate) | Full-stack event platform — RBAC, QR ticketing & check-in, broadcasts, analytics | Next.js · TypeScript · FastAPI · PostgreSQL |
 | [asl-sign-language-translator](https://github.com/Abhinand-VB/asl-sign-language-translator) | Computer-vision ML pipeline translating ASL signs | Python · CV |
 | [ai_twin](https://github.com/Abhinand-VB/ai_twin) | An AI twin built on personality traits, running on a local LLM | TypeScript · Local LLM |
 | [maxing](https://github.com/Abhinand-VB/maxing) | Lifecycle-aware Android productivity app | Kotlin |
